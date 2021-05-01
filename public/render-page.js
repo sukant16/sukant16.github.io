@@ -154,7 +154,7 @@ var plugins = [{
     "cache_busting_mode": "query",
     "crossOrigin": "anonymous",
     "include_favicon": true,
-    "cacheDigest": "c4178f4ad7ee41ed95100ca06f3457a2"
+    "cacheDigest": "7169efd784f566b2ddc5ffce8ae1d332"
   }
 }, {
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-offline/gatsby-ssr */ "./node_modules/gatsby-plugin-offline/gatsby-ssr.js"),
@@ -1676,15 +1676,15 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Data Scientist turned Software Engineer',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: 'https://github.com/sukant16',
+      email: 'sukant7337@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'u_kan73',
+      github: 'sukant16',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'sukantarora7337',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

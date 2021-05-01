@@ -1,13 +1,13 @@
 ---
-title: "About me"
+title: "About Sukant"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/about-photo.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+![Sukantl looking good :p](/media/about-photo.jpg)
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+A software engineer who is usually worried writing better code. Starting my career with Data Science, I eventually realized that building applications is more fun (at least for me). Python and Javascript are my lingo, and Golang probably in some time. I like to do both backend and frontend, although I find its very hard to be good at both. Till now, I have spent more time on backend development. I'm currently working on a side project on journal app. If you have any interesting ideaa and would like to colloborate, feel free to reach out at [sukant7337@gmail.com](mailto:sukant7337@gmail.com).   
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I'm looking for new opportunities and if you find my experience relevant, please drop me a mail. 
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+On personal side, I am a minimalist and this principle defines my life choices a lot (Don't judge me by the above photo, that was just one occasion and nothing bad in having one good suit :p).  
