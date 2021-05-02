@@ -1665,11 +1665,14 @@ module.exports = {
     label: 'Articles',
     path: '/'
   }, {
-    label: 'About me',
+    label: 'About',
     path: '/pages/about'
   }, {
-    label: 'Contact me',
+    label: 'Contact',
     path: '/pages/contacts'
+  }, {
+    label: 'Resume',
+    path: '/media/Sukant_Resume.pdf'
   }],
   author: {
     name: 'Sukant Arora',
